@@ -10,7 +10,7 @@
   "author": "",
   "dependencies": {
     "body-parser": "*",
-    "express": "4.2.x"
+    "express": "4.21.x"
   },
   "license": "Apache License, Version 2.0"
 }
