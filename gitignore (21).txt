@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+build/
+dist/
+
+# Google Cloud
+.gcloud/
+*.json
+
+# Service account keys
+*.key.json
+
+# Environment variables
+.env
+*.env.*
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Yarn
+.yarn/
+.pnp.*
+.yarnrc.yml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Kubernetes
+*.yaml
+*.yml
+
+# Secrets
+secrets/
+
+# Miscellaneous
+*.bak
+*.backup
+*.orig
